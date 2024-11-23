@@ -1,1 +1,1 @@
-int main (){poop}
+int main (){}
